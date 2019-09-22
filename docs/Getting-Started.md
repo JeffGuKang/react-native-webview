@@ -31,10 +31,10 @@ If using cocoapods in the `ios/` directory run
 $ pod install
 ```
 
-Android - react-native-webview version <6:
+Android - react-native-webview version < 6:
 This module does not require any extra step after running the link command 🎉
 
-Android - react-native-webview version >=6.X.X:
+Android - react-native-webview version >= 6.X.X:
 Please make sure AndroidX is enabled in your project by editting `android/gradle.properties` and adding 2 lines:
 
 ```
